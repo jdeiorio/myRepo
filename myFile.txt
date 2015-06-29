@@ -1,1 +1,1 @@
-hello world modified mynewfeatureisready
+hello world modified mynewfeatureisready feature3isready
